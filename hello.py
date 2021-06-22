@@ -1,6 +1,6 @@
-from flask import Flask
-app = Flask(__name__)
+from  flask  importar  Flask
+app  =  Flask ( __name__ )
  
-@app.route('/')
-def hello_world():
-    return 'Hello, World!'
+@ app . rota ( '/' )
+def  hello_world ():
+    return  'Exercicio 6 concluido!'
